@@ -1,0 +1,8 @@
+why the logger uses a singleton design pattern ?
+
+Logging is a fundamental part of applications Logs can inform us of many
+ useful things such as; errors, warnings, stack traces, order of operations,
+ events, etc ,with this information , we are able to find, and therefore resolve
+ bugs more quickly, and ensure our applications are running correctly and logs
+ can be stored to many storage devices, such as slack channels and server logs,
+ making them more accessible to us.
